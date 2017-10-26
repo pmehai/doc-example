@@ -21,7 +21,6 @@ Let's make a list (empty surrounding lines required):
 To see all this, check out the followin image
 
 .. figure:: ZYPQm.png
-   :scale: 50 %
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
