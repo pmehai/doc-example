@@ -19,11 +19,6 @@ Let's make a list (empty surrounding lines required):
 - item 3
 
 To see all this, check out the followin image
-
-.. figure:: ZYPQm.png
-   :alt: map to buried treasure
-
-   This is the caption of the figure (a simple paragraph).
    
 The following is a code block::
   

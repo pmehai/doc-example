@@ -11,6 +11,7 @@ Welcome to Example project's documentation!
    :caption: Contents:
    
    feature-a
+   feature-b
 
 
 
